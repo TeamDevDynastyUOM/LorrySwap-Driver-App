@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390465804067",
+    "project_id": "driverapp-fcm",
+    "storage_bucket": "driverapp-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390465804067:android:2be74eec78143bb5195e96",
+        "android_client_info": {
+          "package_name": "com.abgaming.Signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByijCv_gntyHANMa5gDyck3J604-QdtM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
